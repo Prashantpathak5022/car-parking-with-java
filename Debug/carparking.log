@@ -1,0 +1,9 @@
+﻿  carparking.cpp
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(739,2): error C2059: syntax error: '||'
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(765,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(765,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(795,27): error C2065: 'ProcessMenu': undeclared identifier
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(814,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(814,1): error C2059: syntax error: '}'
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(815,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Prashant\Downloads\CODES\CG&V\carparking\carparking.cpp(815,1): error C2447: '{': missing function header (old-style formal list?)
